@@ -15,7 +15,7 @@ I created it to group together a collection of information received in separate 
 
         npm install
 
-* Create the messages directory in which to out .eml files
+* Create the messages directory in which to put .eml files
 
         mkdir messages
 
@@ -26,4 +26,4 @@ You can do this from an email client such as Thunderbird for example.
 
         node app.js
 
-And voila: find your newly created CSV in the combined-{DATE}.csv file in project root.
+And voila: find your newly created CSV in the combined-{DATE}.csv file in the root folder.
