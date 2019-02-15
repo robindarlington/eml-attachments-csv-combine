@@ -1,0 +1,17 @@
+{
+  "name": "eml-attachments-csv-combine",
+  "version": "1.0.0",
+  "description": "A simple script for extracting the information from a collection of eml files with CSV attachments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^2.4.1",
+    "mailparser": "^2.4.3",
+    "moment": "^2.24.0",
+    "stream-to-string": "^1.2.0"
+  }
+}
